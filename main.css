@@ -1,0 +1,67 @@
+
+body {
+	font-family: helvetica;
+}
+
+nav {
+	background-color: lightgrey;
+	padding: 15px;
+	width: 99%;
+	height: 50px;
+	text-align: right;
+	font-family: helvetica;
+	font-style: bold;
+}
+
+head {
+	display: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+.pagetitle {
+	position: absolute;
+	left: 10px;
+}
+
+.navlink {
+	right: 10px;
+}
+
+.searchbar {
+	border-radius: 3px;
+}
+
+.srch_icon {
+	width: 20px;
+	border: 1px solid lightgrey;
+	border-radius: 3px;
+}
+
+.main {
+	padding-top: 50px;
+	padding-left: 65px;
+}
+
+.pages {
+	margin-top: 25px;
+	margin-bottom: 50px;
+	display: inline-block;
+}
+
+.pnav {
+	display: inline-block;
+	border: 1px solid lightgrey;
+}
+
+.date_posted {
+	color: grey;
+}
+
+.job_title {
+	font-weight: bold;
+	text-decoration: none;
+
+}
